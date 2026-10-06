@@ -1,0 +1,12 @@
+Site LGDMS Performance (Anthony Ligdamis) : maquette créée le 06/10/2026.
+
+À remplacer avant mise en ligne (chercher/remplacer dans index.html) :
+- Téléphone : 06 92 00 00 00 et +262692000000 (aussi dans les liens WhatsApp wa.me/262692000000)
+- E-mail : contact@lgdms-performance.re
+- Adresse exacte du garage : "La Saline les Hauts, 97422 Saint-Paul" (ajouter la rue)
+- Horaires : lundi au vendredi 8 h à 18 h, samedi 8 h à 13 h
+- Domaine : actuellement https://capdepontromain-stack.github.io/lgdms-performance/ (canonical, og:url, schéma, robots.txt, sitemap.xml)
+- Réseaux : liens Facebook / Instagram génériques à remplacer par les vraies pages
+- Photos : banque d'images Pexels (licence libre) en attendant les vraies photos du garage
+
+Dossier photos/ = images utilisées ; dossier candidats/ = originaux téléchargés (supprimable).

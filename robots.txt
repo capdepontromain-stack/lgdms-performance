@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capdepontromain-stack.github.io/lgdms-performance/sitemap.xml
