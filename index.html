@@ -7,6 +7,7 @@
 <meta name="description" content="Entretien, réparation, préparation, pneumatiques et jantes, diagnostic : LGDMS Performance intervient à domicile dans l'Ouest de La Réunion ou au garage de La Saline les Hauts. Devis gratuit.">
 <link rel="canonical" href="https://capdepontromain-stack.github.io/lgdms-performance/">
 <link rel="icon" type="image/png" href="favicon.png">
+<link rel="alternate" type="application/rss+xml" title="Conseils auto LGDMS Performance" href="https://capdepontromain-stack.github.io/lgdms-performance/blog/flux.xml">
 <meta name="geo.region" content="FR-974">
 <meta name="geo.placename" content="La Saline les Hauts, Saint-Paul, La Réunion">
 <meta property="og:type" content="website">
@@ -296,6 +297,20 @@ footer nav a{color:var(--argent);font-size:.85rem}
 .appel-mobile svg{width:18px;height:18px;fill:#fff}
 @media(max-width:860px){.appel-mobile{display:grid}}
 
+
+/* conseils (blog) */
+.conseils{background:var(--nuit);border-top:1px solid var(--bord);border-bottom:1px solid var(--bord)}
+.cartes{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:36px}
+.carte-art{background:var(--panneau);border:1px solid var(--bord);border-radius:var(--rayon);overflow:hidden;text-decoration:none;color:inherit;display:flex;flex-direction:column;transition:.3s}
+.carte-art:hover{transform:translateY(-6px);border-color:rgba(90,168,255,.6);box-shadow:0 24px 50px rgba(0,0,0,.5)}
+.carte-art img{width:100%;aspect-ratio:16/10;object-fit:cover}
+.carte-art .txt{padding:18px 20px 22px}
+.carte-art time{font-family:var(--titre);font-style:italic;font-weight:700;text-transform:uppercase;letter-spacing:.12em;font-size:.72rem;color:var(--bleu-neon)}
+.carte-art h3{font-size:1.1rem;color:#fff;margin:8px 0 8px;text-transform:none}
+.carte-art p{color:var(--muet);font-size:.93rem}
+@media(max-width:960px){.cartes{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.cartes{grid-template-columns:1fr}}
+
 /* reveal */
 .rv{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
 .rv.vu{opacity:1;transform:none}
@@ -313,6 +328,7 @@ footer nav a{color:var(--argent);font-size:.85rem}
       <a href="#zone">Zone</a>
       <a href="#galerie">Galerie</a>
       <a href="#faq">FAQ</a>
+      <a href="blog/">Conseils</a>
       <a href="tel:+262692723400" class="btn btn-bleu"><svg viewBox="0 0 24 24"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25c1.1.37 2.3.57 3.6.57a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1L6.6 10.8z"/></svg>06 92 72 34 00</a>
     </nav>
     <button class="burger" id="burger" aria-label="Menu" aria-expanded="false">☰</button>
@@ -535,6 +551,18 @@ footer nav a{color:var(--argent);font-size:.85rem}
   </div>
 </section>
 
+<!-- DERNIERS-ARTICLES -->
+<section class="conseils" id="conseils">
+  <div class="conteneur">
+    <div class="rv"><div class="sur">Conseils auto</div>
+    <h2 class="chrome">Les réponses d'Anthony à vos questions</h2>
+    <p class="intro">Entretien, pannes, pneus, diagnostic : des conseils de terrain pour rouler tranquille à La Réunion.</p></div>
+    <div class="cartes rv"><a class="carte-art" href="blog/mecanicien-a-domicile-saline-les-hauts-ouest-reunion/"><img src="photos/mecanicien-a-domicile-depannage-ouest-reunion.jpg" alt="Mécanicien à domicile qui intervient sur une voiture dans l&#x27;Ouest de La Réunion" loading="lazy" width="1400" height="875"><div class="txt"><time datetime="2026-10-07">7 octobre 2026</time><h3>Mécanicien à domicile dans l&#x27;Ouest de La Réunion : comment ça marche</h3><p>Un mécanicien qui vient chez vous à La Saline, Saint-Gilles, Saint-Paul ou Saint-Leu : interventions possibles, déroulé, limites. Anthony, LGDMS Performance.</p></div></a><a class="carte-art" href="blog/voiture-ne-demarre-pas-depannage-sur-place-ouest-reunion/"><img src="photos/changement-roue-a-domicile-saint-leu.jpg" alt="Dépannage d&#x27;une voiture sur place dans l&#x27;Ouest de La Réunion" loading="lazy" width="1400" height="875"><div class="txt"><time datetime="2026-10-07">7 octobre 2026</time><h3>Voiture qui ne démarre pas : causes et dépannage sur place</h3><p>Clic, rien, ou moteur qui tourne sans partir ? Batterie, démarreur, alternateur, carburant : ce qu&#x27;il faut vérifier et comment Anthony dépanne sur place.</p></div></a><a class="carte-art" href="blog/voyant-moteur-allume-diagnostic-saint-paul/"><img src="photos/diagnostic-electronique-valise-obd-reunion.jpg" alt="Diagnostic électronique d&#x27;une voiture avec une valise OBD" loading="lazy" width="1400" height="875"><div class="txt"><time datetime="2026-10-07">7 octobre 2026</time><h3>Voyant moteur allumé : que faire et diagnostic à domicile</h3><p>Voyant moteur fixe ou clignotant : peut-on rouler, quelles causes, comment se passe le diagnostic à la valise à domicile dans l&#x27;Ouest de La Réunion.</p></div></a></div>
+    <p class="rv" style="margin-top:30px"><a class="btn btn-ghost" href="blog/">Tous les conseils auto</a></p>
+  </div>
+</section>
+<!-- /DERNIERS-ARTICLES -->
+
 <section id="faq">
   <div class="conteneur">
     <div class="rv">
@@ -596,6 +624,7 @@ footer nav a{color:var(--argent);font-size:.85rem}
       <a href="#zone">Zone</a>
       <a href="#galerie">Galerie</a>
       <a href="#faq">FAQ</a>
+      <a href="blog/">Conseils auto</a>
       <a href="#contact">Contact</a>
     </nav>
     <div>© <span id="annee"></span> LGDMS Performance, Anthony Ligdamis. La Saline les Hauts, La Réunion. Plus qu'un garage, une passion.</div>

@@ -1,0 +1,59 @@
+# Banque de sujets du blog LGDMS Performance (Anthony Ligdamis, La Saline les Hauts). Un sujet par ligne : slug | titre de travail | angle et mots-clés visés.
+# La routine du matin choisit le PREMIER sujet non encore présent dans outils/articles.json (vérifier aussi les titres proches),
+# en respectant l'ordre des priorités. Elle peut ajouter des sujets en bas de liste (saison, actualité, question d'un client).
+# Priorité 1 : requêtes locales qui amènent des appels (service + commune de l'Ouest : La Saline les Hauts, La Saline les Bains, Saint-Gilles, L'Hermitage, Saint-Paul, Trois-Bassins, Saint-Leu, Le Port, La Possession).
+# Priorité 2 : pannes et questions pratiques que les automobilistes tapent sur Google ou posent aux IA (voyant, bruit, batterie, pneus, contrôle technique).
+# Priorité 3 : préparation performance, jantes, entretien de fond, vie de la voiture à La Réunion (climat, sel, routes de montagne).
+# Faits locaux à manier avec prudence (écrire « en général », « renseignez-vous ») : délais et règles du contrôle technique, règlementation pneus/jantes, homologation des préparations, tarifs des centres.
+# JAMAIS : prix en euros, avis clients inventés, tiret cadratin, promesse de résultat garanti, conseil dangereux (travail sous une voiture sur cric seul, freins « maison », bricolage électrique, airbags), dénigrement d'un autre garage.
+# Ne jamais affirmer qu'Anthony fait du remorquage ou de la dépanneuse : parler de « dépannage sur place » (batterie, démarrage, roue, diagnostic) et, si la voiture ne peut pas rouler, dire d'appeler le garage pour trouver une solution.
+
+## Priorité 1 : local (service + commune)
+mecanicien-a-domicile-saline-les-hauts-ouest-reunion | FAIT le 07/10/2026
+voiture-ne-demarre-pas-depannage-sur-place-ouest-reunion | FAIT le 07/10/2026
+voyant-moteur-allume-diagnostic-saint-paul | FAIT le 07/10/2026
+vidange-a-domicile-saint-gilles-hermitage | Vidange à domicile à Saint-Gilles et L'Hermitage : comment ça se passe | requête « vidange à domicile Saint-Gilles », déroulé, huile et filtre, durée, carnet d'entretien
+garage-la-saline-les-hauts-pourquoi-un-garage-dans-les-hauts | Un garage à La Saline les Hauts : pourquoi monter plutôt que descendre sur la côte | requête « garage La Saline », proximité, calme, dépôt sur rendez-vous, Saint-Gilles les Hauts, Villèle
+changement-pneus-a-domicile-saint-paul | Changer ses pneus à domicile à Saint-Paul : montage, équilibrage, ce qu'il faut savoir | requête « pneus à domicile Saint-Paul », matériel mobile, limites, jantes
+mecanicien-a-domicile-saint-leu-trois-bassins | Mécanicien à domicile à Saint-Leu et Trois-Bassins : les interventions possibles chez vous | requête « mécanicien à domicile Saint-Leu », liste des interventions, ce qui va au garage
+entretien-voiture-le-port-la-possession-a-domicile | Entretien auto à domicile au Port et à La Possession : gagner une demi-journée | zone industrielle, salariés, parking entreprise, entretien pendant le travail
+plaquettes-de-frein-a-domicile-ouest-reunion | Plaquettes de frein usées : les signes et le remplacement à domicile dans l'Ouest | bruit, témoin, distance de freinage, routes de montagne, Saint-Gilles les Hauts
+batterie-voiture-a-plat-remplacement-saline-les-bains | Batterie à plat à La Saline les Bains : test, recharge ou remplacement sur place | plage, parking, chaleur, âge de la batterie, démarrage
+diagnostic-auto-a-domicile-saint-gilles-les-hauts | Diagnostic auto à domicile à Saint-Gilles les Hauts : la valise vient à vous | lecture des défauts, explication, devis avant réparation
+preparation-contrcle-technique-garage-saline-les-hauts | Préparer le contrôle technique au garage de La Saline les Hauts | points vérifiés, contre-visite, feux, pneus, freins, pollution (règles à écrire « en général »)
+garage-saint-paul-ou-trouver-un-mecanicien-de-confiance | Trouver un mécanicien de confiance à Saint-Paul : les bonnes questions à poser | devis écrit, pièces, explications, avis, transparence
+depannage-voiture-parking-centre-commercial-saint-paul | Panne sur un parking à Saint-Paul ou Saint-Gilles : les gestes qui aident avant l'arrivée du mécanicien | sécurité, feux de détresse, ce qu'il faut noter, appel
+entretien-voiture-salaries-zone-cambaie-saint-paul | Entretien de votre voiture pendant vos heures de travail à Cambaie et Savanna | zones d'activité de Saint-Paul, intervention sur parking d'entreprise
+pneus-crevaison-reparation-ou-remplacement-ouest | Crevaison dans l'Ouest : réparer ou remplacer le pneu ? | mèche, flanc, clou, pneu de secours, kit anticrevaison
+
+## Priorité 2 : pannes et questions pratiques
+bruit-de-freinage-grincement-sifflement-que-faire | Bruit au freinage : grincement, sifflement, vibration, ce que ça veut dire | plaquettes, disques voilés, témoin d'usure, quand s'arrêter de rouler
+voiture-qui-chauffe-moteur-surchauffe-reunion | Voiture qui chauffe à La Réunion : causes et réflexes | liquide de refroidissement, ventilateur, thermostat, embouteillages, route des Tamarins, montée des hauts
+climatisation-voiture-ne-refroidit-plus-reunion | Clim de voiture qui ne refroidit plus : les causes fréquentes sous le climat réunionnais | recharge, compresseur, filtre habitacle, entretien
+quand-faire-la-vidange-kilometrage-ou-temps | Vidange : tous les combien de kilomètres, ou tous les combien de mois ? | carnet constructeur, petits trajets, huile, filtre
+embrayage-use-signes-patine-pedale-dure | Embrayage fatigué : les signes qui ne trompent pas | patinage, pédale dure, odeur, point de patinage, remplacement au garage
+courroie-de-distribution-quand-la-changer | Courroie de distribution : quand la changer et pourquoi ne pas attendre | kilométrage et âge, casse moteur, kit complet, pompe à eau
+amortisseurs-uses-signes-routes-de-montagne | Amortisseurs usés : les signes sur les routes de montagne de La Réunion | rebonds, tenue de route, usure des pneus, virages des hauts
+temoin-batterie-alternateur-voyant-rouge | Voyant batterie allumé en roulant : batterie ou alternateur ? | différence, test, risque de rester en panne
+voiture-qui-tire-a-droite-geometrie-parallelisme | La voiture tire d'un côté : parallélisme, pneus ou freins ? | géométrie, pression, usure, nids-de-poule
+pression-des-pneus-chaleur-reunion-combien | Pression des pneus à La Réunion : à combien gonfler et quand vérifier | chaleur, charge, étiquette portière, roue de secours
+controle-technique-defaillances-les-plus-frequentes | Contrôle technique : les défaillances les plus fréquentes et comment les éviter | feux, pneus, freins, pollution, pare-brise (généralités, sans chiffres officiels)
+odeur-essence-ou-brule-dans-la-voiture | Odeur d'essence, de brûlé ou d'œuf pourri dans la voiture : que vérifier | fuite, embrayage, catalyseur, sécurité, arrêt
+fumee-echappement-blanche-bleue-noire | Fumée blanche, bleue ou noire à l'échappement : ce que la couleur révèle | joint de culasse, huile, injection, diesel
+voiture-qui-broute-a-chaud-ou-au-ralenti | Voiture qui broute au ralenti ou à l'accélération : les causes courantes | bougies, bobine, injecteurs, débitmètre, diagnostic
+boite-de-vitesses-dure-ou-qui-craque | Boîte qui craque ou vitesses dures : embrayage, huile ou synchro ? | huile de boîte, câble, embrayage
+preparer-sa-voiture-avant-la-saison-des-pluies | Préparer sa voiture avant la saison des pluies à La Réunion | essuie-glaces, pneus, freins, feux, aquaplaning, novembre
+voiture-apres-cyclone-que-verifier | Après un cyclone ou une forte pluie : ce qu'il faut vérifier sur sa voiture | eau, freins, électrique, moisissure, ne pas démarrer une voiture inondée
+voiture-qui-dort-dehors-sel-et-soleil-protection | Voiture garée dehors près du lagon : sel, soleil et corrosion, comment la protéger | Saint-Gilles, La Saline les Bains, lavage, dessous de caisse, joints
+voiture-de-location-ou-occasion-controle-avant-achat | Acheter une occasion à La Réunion : le contrôle avant achat par un mécanicien | essai, diagnostic, historique, points à vérifier
+
+## Priorité 3 : préparation, jantes, fond
+preparation-performance-par-ou-commencer | Préparation performance : par quoi commencer sans abîmer sa voiture | admission, échappement, freins, pneus, suspension, ordre logique, homologation « à vérifier »
+jantes-alu-choisir-taille-deport-entraxe | Choisir des jantes alu : taille, déport, entraxe, les notions à connaître | ET, PCD, pneus adaptés, confort, règlementation « en général »
+freinage-sport-plaquettes-disques-quand-ameliorer | Freinage renforcé : quand et comment améliorer plaquettes et disques | montagne, conduite sportive, température, liquide
+suspension-sport-ressorts-courts-ou-combines | Ressorts courts ou combinés filetés : quelle suspension pour une sportive à La Réunion ? | confort, routes dégradées, dos d'âne, garde au sol
+reprogrammation-moteur-questions-a-se-poser | Reprogrammation moteur : les questions à se poser avant | fiabilité, garantie, entretien, usage réel, prudence
+entretien-voiture-sportive-plus-souvent | Pourquoi une voiture préparée s'entretient plus souvent | huile, freins, pneus, contrôles réguliers
+filtre-a-air-sport-utile-ou-pas | Filtre à air sport : gadget ou vrai plus ? | bruit, débit, entretien, réalités
+voiture-ancienne-youngtimer-entretien-reunion | Entretenir une voiture ancienne ou une youngtimer à La Réunion | pièces, humidité, caoutchoucs, patience
+histoire-lgdms-performance-anthony-passion-auto | Plus qu'un garage, une passion : l'histoire d'Anthony et de LGDMS Performance | récit, valeurs, pourquoi le domicile, La Saline les Hauts (à écrire quand Romain aura les infos d'Anthony)
