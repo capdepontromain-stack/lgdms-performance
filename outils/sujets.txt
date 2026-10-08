@@ -12,7 +12,7 @@
 mecanicien-a-domicile-saline-les-hauts-ouest-reunion | FAIT le 07/10/2026
 voiture-ne-demarre-pas-depannage-sur-place-ouest-reunion | FAIT le 07/10/2026
 voyant-moteur-allume-diagnostic-saint-paul | FAIT le 07/10/2026
-vidange-a-domicile-saint-gilles-hermitage | Vidange à domicile à Saint-Gilles et L'Hermitage : comment ça se passe | requête « vidange à domicile Saint-Gilles », déroulé, huile et filtre, durée, carnet d'entretien
+vidange-a-domicile-saint-gilles-hermitage | FAIT le 08/10/2026
 garage-la-saline-les-hauts-pourquoi-un-garage-dans-les-hauts | Un garage à La Saline les Hauts : pourquoi monter plutôt que descendre sur la côte | requête « garage La Saline », proximité, calme, dépôt sur rendez-vous, Saint-Gilles les Hauts, Villèle
 changement-pneus-a-domicile-saint-paul | Changer ses pneus à domicile à Saint-Paul : montage, équilibrage, ce qu'il faut savoir | requête « pneus à domicile Saint-Paul », matériel mobile, limites, jantes
 mecanicien-a-domicile-saint-leu-trois-bassins | Mécanicien à domicile à Saint-Leu et Trois-Bassins : les interventions possibles chez vous | requête « mécanicien à domicile Saint-Leu », liste des interventions, ce qui va au garage
