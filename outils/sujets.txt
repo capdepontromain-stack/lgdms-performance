@@ -14,7 +14,7 @@ voiture-ne-demarre-pas-depannage-sur-place-ouest-reunion | FAIT le 07/10/2026
 voyant-moteur-allume-diagnostic-saint-paul | FAIT le 07/10/2026
 vidange-a-domicile-saint-gilles-hermitage | FAIT le 08/10/2026
 garage-la-saline-les-hauts-pourquoi-un-garage-dans-les-hauts | FAIT le 09/10/2026
-changement-pneus-a-domicile-saint-paul | Changer ses pneus à domicile à Saint-Paul : montage, équilibrage, ce qu'il faut savoir | requête « pneus à domicile Saint-Paul », matériel mobile, limites, jantes
+changement-pneus-a-domicile-saint-paul | FAIT le 10/10/2026
 mecanicien-a-domicile-saint-leu-trois-bassins | Mécanicien à domicile à Saint-Leu et Trois-Bassins : les interventions possibles chez vous | requête « mécanicien à domicile Saint-Leu », liste des interventions, ce qui va au garage
 entretien-voiture-le-port-la-possession-a-domicile | Entretien auto à domicile au Port et à La Possession : gagner une demi-journée | zone industrielle, salariés, parking entreprise, entretien pendant le travail
 plaquettes-de-frein-a-domicile-ouest-reunion | Plaquettes de frein usées : les signes et le remplacement à domicile dans l'Ouest | bruit, témoin, distance de freinage, routes de montagne, Saint-Gilles les Hauts
