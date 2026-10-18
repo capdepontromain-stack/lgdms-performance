@@ -7,3 +7,4 @@
 2026-10-15 | entretien-voiture-le-port-la-possession-a-domicile | Entretien auto à domicile au Port et à La Possession | 200 (article, blog, accueil, sitemap) ; pas de publication les 12, 13 et 14/10 (tâche non lancée)
 2026-10-16 | plaquettes-de-frein-a-domicile-ouest-reunion | Plaquettes de frein usées : signes et remplacement à domicile | 200 (article, blog, accueil, sitemap)
 2026-10-17 | batterie-voiture-a-plat-remplacement-saline-les-bains | Batterie à plat à La Saline les Bains : test, recharge ou remplacement | 200 (article, blog, accueil, sitemap)
+2026-10-18 | diagnostic-auto-a-domicile-saint-gilles-les-hauts | Diagnostic auto à domicile à Saint-Gilles les Hauts : tous les voyants | 200 (article, blog, accueil, sitemap) ; angle « tous les calculateurs » pour ne pas doublonner l'article voyant moteur du 07/10
