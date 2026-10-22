@@ -8,3 +8,4 @@
 2026-10-16 | plaquettes-de-frein-a-domicile-ouest-reunion | Plaquettes de frein usées : signes et remplacement à domicile | 200 (article, blog, accueil, sitemap)
 2026-10-17 | batterie-voiture-a-plat-remplacement-saline-les-bains | Batterie à plat à La Saline les Bains : test, recharge ou remplacement | 200 (article, blog, accueil, sitemap)
 2026-10-18 | diagnostic-auto-a-domicile-saint-gilles-les-hauts | Diagnostic auto à domicile à Saint-Gilles les Hauts : tous les voyants | 200 (article, blog, accueil, sitemap) ; angle « tous les calculateurs » pour ne pas doublonner l'article voyant moteur du 07/10
+2026-10-22 | preparation-controle-technique-garage-saline-les-hauts | Préparer le contrôle technique au garage de La Saline les Hauts | 200 (article, blog, accueil, sitemap) ; pas de publication du 19 au 21/10 (tâche non lancée) ; slug corrigé (coquille « contrcle » dans la banque)
