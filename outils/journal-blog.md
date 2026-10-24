@@ -10,3 +10,4 @@
 2026-10-18 | diagnostic-auto-a-domicile-saint-gilles-les-hauts | Diagnostic auto à domicile à Saint-Gilles les Hauts : tous les voyants | 200 (article, blog, accueil, sitemap) ; angle « tous les calculateurs » pour ne pas doublonner l'article voyant moteur du 07/10
 2026-10-22 | preparation-controle-technique-garage-saline-les-hauts | Préparer le contrôle technique au garage de La Saline les Hauts | 200 (article, blog, accueil, sitemap) ; pas de publication du 19 au 21/10 (tâche non lancée) ; slug corrigé (coquille « contrcle » dans la banque)
 2026-10-23 | garage-saint-paul-ou-trouver-un-mecanicien-de-confiance | Mécanicien de confiance à Saint-Paul : les bonnes questions à poser | 200 (article, blog, accueil, sitemap)
+2026-10-24 | depannage-voiture-parking-centre-commercial-saint-paul | Panne sur un parking à Saint-Paul : les bons gestes en attendant | 200 (article, blog, accueil, sitemap)
