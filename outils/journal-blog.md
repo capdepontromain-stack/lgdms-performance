@@ -11,3 +11,4 @@
 2026-10-22 | preparation-controle-technique-garage-saline-les-hauts | Préparer le contrôle technique au garage de La Saline les Hauts | 200 (article, blog, accueil, sitemap) ; pas de publication du 19 au 21/10 (tâche non lancée) ; slug corrigé (coquille « contrcle » dans la banque)
 2026-10-23 | garage-saint-paul-ou-trouver-un-mecanicien-de-confiance | Mécanicien de confiance à Saint-Paul : les bonnes questions à poser | 200 (article, blog, accueil, sitemap)
 2026-10-24 | depannage-voiture-parking-centre-commercial-saint-paul | Panne sur un parking à Saint-Paul : les bons gestes en attendant | 200 (article, blog, accueil, sitemap)
+2026-10-25 | entretien-voiture-salaries-zone-cambaie-saint-paul | Entretien auto à Cambaie et Savanna pendant vos heures de travail | 200 (article, blog, accueil, sitemap) ; angle salariés + flottes d'entreprise pour ne pas doublonner l'article Le Port/La Possession du 15/10
