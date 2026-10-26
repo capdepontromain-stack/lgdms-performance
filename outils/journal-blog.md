@@ -12,3 +12,4 @@
 2026-10-23 | garage-saint-paul-ou-trouver-un-mecanicien-de-confiance | Mécanicien de confiance à Saint-Paul : les bonnes questions à poser | 200 (article, blog, accueil, sitemap)
 2026-10-24 | depannage-voiture-parking-centre-commercial-saint-paul | Panne sur un parking à Saint-Paul : les bons gestes en attendant | 200 (article, blog, accueil, sitemap)
 2026-10-25 | entretien-voiture-salaries-zone-cambaie-saint-paul | Entretien auto à Cambaie et Savanna pendant vos heures de travail | 200 (article, blog, accueil, sitemap) ; angle salariés + flottes d'entreprise pour ne pas doublonner l'article Le Port/La Possession du 15/10
+2026-10-26 | pneus-crevaison-reparation-ou-remplacement-ouest | Crevaison dans l'Ouest : réparer ou remplacer le pneu ? | 200 (article, blog, accueil, sitemap) ; dernier sujet de priorité 1, on passe à la priorité 2

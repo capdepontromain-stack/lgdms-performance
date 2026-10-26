@@ -24,7 +24,7 @@ preparation-controle-technique-garage-saline-les-hauts | FAIT le 22/10/2026
 garage-saint-paul-ou-trouver-un-mecanicien-de-confiance | FAIT le 23/10/2026
 depannage-voiture-parking-centre-commercial-saint-paul | FAIT le 24/10/2026
 entretien-voiture-salaries-zone-cambaie-saint-paul | FAIT le 25/10/2026
-pneus-crevaison-reparation-ou-remplacement-ouest | Crevaison dans l'Ouest : réparer ou remplacer le pneu ? | mèche, flanc, clou, pneu de secours, kit anticrevaison
+pneus-crevaison-reparation-ou-remplacement-ouest | FAIT le 26/10/2026
 
 ## Priorité 2 : pannes et questions pratiques
 bruit-de-freinage-grincement-sifflement-que-faire | Bruit au freinage : grincement, sifflement, vibration, ce que ça veut dire | plaquettes, disques voilés, témoin d'usure, quand s'arrêter de rouler
