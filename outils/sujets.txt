@@ -27,8 +27,8 @@ entretien-voiture-salaries-zone-cambaie-saint-paul | FAIT le 25/10/2026
 pneus-crevaison-reparation-ou-remplacement-ouest | FAIT le 26/10/2026
 
 ## Priorité 2 : pannes et questions pratiques
-bruit-de-freinage-grincement-sifflement-que-faire | Bruit au freinage : grincement, sifflement, vibration, ce que ça veut dire | plaquettes, disques voilés, témoin d'usure, quand s'arrêter de rouler
-voiture-qui-chauffe-moteur-surchauffe-reunion | Voiture qui chauffe à La Réunion : causes et réflexes | liquide de refroidissement, ventilateur, thermostat, embouteillages, route des Tamarins, montée des hauts
+bruit-de-freinage-grincement-sifflement-que-faire | Bruit au freinage : grincement, sifflement, vibration, ce que ça veut dire | plaquettes, disques voilés, témoin d'usure, quand s'arrêter de rouler (REPORTÉ le 27/10/2026 : trop proche de l'article plaquettes du 16/10 ; ne le traiter que sous un angle différent, ex. bruits hors usure : poussière, humidité du matin, disques neufs)
+voiture-qui-chauffe-moteur-surchauffe-reunion | FAIT le 27/10/2026
 climatisation-voiture-ne-refroidit-plus-reunion | Clim de voiture qui ne refroidit plus : les causes fréquentes sous le climat réunionnais | recharge, compresseur, filtre habitacle, entretien
 quand-faire-la-vidange-kilometrage-ou-temps | Vidange : tous les combien de kilomètres, ou tous les combien de mois ? | carnet constructeur, petits trajets, huile, filtre
 embrayage-use-signes-patine-pedale-dure | Embrayage fatigué : les signes qui ne trompent pas | patinage, pédale dure, odeur, point de patinage, remplacement au garage
