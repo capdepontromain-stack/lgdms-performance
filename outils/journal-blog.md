@@ -14,3 +14,4 @@
 2026-10-25 | entretien-voiture-salaries-zone-cambaie-saint-paul | Entretien auto à Cambaie et Savanna pendant vos heures de travail | 200 (article, blog, accueil, sitemap) ; angle salariés + flottes d'entreprise pour ne pas doublonner l'article Le Port/La Possession du 15/10
 2026-10-26 | pneus-crevaison-reparation-ou-remplacement-ouest | Crevaison dans l'Ouest : réparer ou remplacer le pneu ? | 200 (article, blog, accueil, sitemap) ; dernier sujet de priorité 1, on passe à la priorité 2
 2026-10-27 | voiture-qui-chauffe-moteur-surchauffe-reunion | Voiture qui chauffe à La Réunion : causes et bons réflexes | 200 (article, blog, accueil, sitemap) ; sujet « bruit de freinage » reporté (doublon de l'article plaquettes du 16/10)
+2026-10-28 | climatisation-voiture-ne-refroidit-plus-reunion | Clim de voiture qui ne refroidit plus à La Réunion : les causes | 200 (article, blog, accueil, sitemap) ; publié à l'arrivée de la saison chaude
