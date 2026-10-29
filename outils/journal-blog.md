@@ -15,3 +15,4 @@
 2026-10-26 | pneus-crevaison-reparation-ou-remplacement-ouest | Crevaison dans l'Ouest : réparer ou remplacer le pneu ? | 200 (article, blog, accueil, sitemap) ; dernier sujet de priorité 1, on passe à la priorité 2
 2026-10-27 | voiture-qui-chauffe-moteur-surchauffe-reunion | Voiture qui chauffe à La Réunion : causes et bons réflexes | 200 (article, blog, accueil, sitemap) ; sujet « bruit de freinage » reporté (doublon de l'article plaquettes du 16/10)
 2026-10-28 | climatisation-voiture-ne-refroidit-plus-reunion | Clim de voiture qui ne refroidit plus à La Réunion : les causes | 200 (article, blog, accueil, sitemap) ; publié à l'arrivée de la saison chaude
+2026-10-29 | quand-faire-la-vidange-kilometrage-ou-temps | Vidange : tous les combien de kilomètres ou de mois ? | 200 (article, blog, accueil, sitemap) ; angle fréquence (km/mois, usage sévère), distinct de l'article déroulé vidange du 08/10
