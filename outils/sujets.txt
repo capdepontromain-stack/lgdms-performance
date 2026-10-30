@@ -42,7 +42,7 @@ odeur-essence-ou-brule-dans-la-voiture | Odeur d'essence, de brûlé ou d'œuf p
 fumee-echappement-blanche-bleue-noire | Fumée blanche, bleue ou noire à l'échappement : ce que la couleur révèle | joint de culasse, huile, injection, diesel
 voiture-qui-broute-a-chaud-ou-au-ralenti | Voiture qui broute au ralenti ou à l'accélération : les causes courantes | bougies, bobine, injecteurs, débitmètre, diagnostic
 boite-de-vitesses-dure-ou-qui-craque | Boîte qui craque ou vitesses dures : embrayage, huile ou synchro ? | huile de boîte, câble, embrayage
-preparer-sa-voiture-avant-la-saison-des-pluies | Préparer sa voiture avant la saison des pluies à La Réunion | essuie-glaces, pneus, freins, feux, aquaplaning, novembre
+preparer-sa-voiture-avant-la-saison-des-pluies | FAIT le 30/10/2026
 voiture-apres-cyclone-que-verifier | Après un cyclone ou une forte pluie : ce qu'il faut vérifier sur sa voiture | eau, freins, électrique, moisissure, ne pas démarrer une voiture inondée
 voiture-qui-dort-dehors-sel-et-soleil-protection | Voiture garée dehors près du lagon : sel, soleil et corrosion, comment la protéger | Saint-Gilles, La Saline les Bains, lavage, dessous de caisse, joints
 voiture-de-location-ou-occasion-controle-avant-achat | Acheter une occasion à La Réunion : le contrôle avant achat par un mécanicien | essai, diagnostic, historique, points à vérifier
