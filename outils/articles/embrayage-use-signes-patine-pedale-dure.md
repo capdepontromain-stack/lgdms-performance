@@ -8,13 +8,13 @@ alt: Voiture sur le pont élévateur du garage LGDMS Performance à La Saline le
 ---
 **En bref.** Un embrayage usé se reconnaît surtout au patinage : le moteur monte dans les tours mais la voiture n'accélère pas autant qu'elle devrait, en particulier en côte ou en cinquième. D'autres signes doivent alerter : une pédale qui devient dure ou qui accroche, un point de patinage qui remonte tout en haut de la course, une odeur de brûlé après un démarrage en pente, des vitesses qui passent mal. Un embrayage ne se répare pas en bord de route : son remplacement se fait à l'atelier, sur le pont, au garage de La Saline les Hauts. Avant ça, je peux venir faire un premier contrôle chez vous dans l'Ouest, avec un devis gratuit avant toute intervention.
 
-Je suis Anthony, mécanicien à La Saline les Hauts. L'embrayage, c'est la pièce qu'on oublie tant qu'elle marche, et qu'on découvre le jour où la voiture refuse de monter une côte. Dans l'Ouest, avec nos routes qui grimpent dès qu'on quitte le littoral, il travaille beaucoup plus qu'on ne l'imagine. Voici comment repérer qu'il fatigue avant qu'il vous lâche.
+Je suis Anthony, mécanicien à La Saline les Hauts. L'embrayage, c'est la pièce qu'on oublie tant qu'elle marche, et qu'on découvre le jour où la voiture refuse de monter une côte. Voici comment repérer qu'il fatigue avant qu'il vous lâche.
 
 ## À quoi sert l'embrayage, en deux mots
 
 L'embrayage, c'est ce qui relie le moteur à la boîte de vitesses. Quand vous appuyez sur la pédale, vous les séparez pour changer de rapport. Quand vous relâchez, un disque garni de friction vient se coller contre le volant moteur et transmet la force aux roues.
 
-Ce disque s'use un peu à chaque démarrage, un peu comme une plaquette de frein. Plus on le fait frotter, plus il s'use vite. Sa durée de vie dépend énormément de la façon de conduire et des routes empruntées : il n'y a pas de kilométrage « normal » que je pourrais vous garantir.
+Ce disque s'use un peu à chaque démarrage, comme une plaquette de frein. Sa durée de vie dépend énormément de la façon de conduire et des routes empruntées : il n'y a pas de kilométrage « normal » que je pourrais vous garantir.
 
 ## Le signe n°1 : l'embrayage qui patine
 
@@ -26,7 +26,7 @@ Il se remarque surtout :
 - **sur un rapport long** (quatrième, cinquième) quand vous relancez sur la route des Tamarins ;
 - **chargé**, avec toute la famille à bord ou une remorque.
 
-Au début, le patinage n'apparaît que de temps en temps. Puis il devient permanent. À ce stade, il faut prévoir le remplacement rapidement, parce qu'un disque qui patine chauffe, s'use encore plus vite et peut abîmer d'autres pièces.
+Au début, le patinage est occasionnel, puis il devient permanent. À ce stade, il faut prévoir le remplacement rapidement, parce qu'un disque qui patine chauffe, s'use encore plus vite et peut abîmer d'autres pièces.
 
 ## Les autres signes à surveiller
 
@@ -34,11 +34,11 @@ Au début, le patinage n'apparaît que de temps en temps. Puis il devient perman
 
 **Un point de patinage qui remonte.** Le moment où la voiture commence à avancer quand vous relâchez la pédale se situe de plus en plus haut. C'est souvent le signe d'un disque qui s'amincit.
 
-**Une odeur de brûlé.** Après un démarrage difficile en pente ou une manœuvre en marche arrière dans une allée qui monte, une odeur âcre de friction chaude, c'est l'embrayage qui a souffert. Une fois, ça arrive à tout le monde. Si ça devient régulier, il faut le faire vérifier.
+**Une odeur de brûlé.** Après un démarrage difficile en pente ou une manœuvre en marche arrière dans une allée qui monte, une odeur âcre de friction chaude, c'est l'embrayage qui a souffert. Si ça devient régulier, il faut le faire vérifier.
 
 **Des vitesses qui passent mal.** Si la marche arrière ou la première craque alors que la pédale est enfoncée à fond, l'embrayage ne « débraye » peut-être plus complètement.
 
-**Des bruits ou des vibrations.** Un sifflement ou un ronronnement qui change quand vous appuyez sur la pédale, ou des à-coups au démarrage, peuvent venir de la butée ou du volant moteur.
+**Des bruits ou des à-coups.** Un sifflement qui change quand vous appuyez sur la pédale peut venir de la butée ou du volant moteur.
 
 ## Pourquoi les embrayages souffrent dans l'Ouest
 
@@ -49,7 +49,7 @@ Au début, le patinage n'apparaît que de temps en temps. Puis il devient perman
 - **les allées et garages en pente**, très courants à La Saline les Hauts, où on manœuvre en faisant patiner ;
 - **la chaleur**, qui n'aide pas une pièce qui fonctionne déjà par friction.
 
-Quelques bons gestes rallongent sa vie : ne pas garder le pied posé sur la pédale en roulant, utiliser le frein à main pour démarrer en côte plutôt que de tenir la voiture à l'embrayage, passer au point mort aux longs arrêts, et ne pas faire patiner pour rien.
+Quelques bons gestes rallongent sa vie : ne pas garder le pied posé sur la pédale en roulant, utiliser le frein à main pour démarrer en côte plutôt que de tenir la voiture à l'embrayage, passer au point mort aux longs arrêts.
 
 ## Comment je contrôle et remplace un embrayage
 
