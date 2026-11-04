@@ -33,7 +33,7 @@ climatisation-voiture-ne-refroidit-plus-reunion | FAIT le 28/10/2026
 quand-faire-la-vidange-kilometrage-ou-temps | FAIT le 29/10/2026
 embrayage-use-signes-patine-pedale-dure | FAIT le 02/11/2026
 courroie-de-distribution-quand-la-changer | FAIT le 03/11/2026
-amortisseurs-uses-signes-routes-de-montagne | Amortisseurs usés : les signes sur les routes de montagne de La Réunion | rebonds, tenue de route, usure des pneus, virages des hauts
+amortisseurs-uses-signes-routes-de-montagne | FAIT le 04/11/2026
 temoin-batterie-alternateur-voyant-rouge | Voyant batterie allumé en roulant : batterie ou alternateur ? | différence, test, risque de rester en panne
 voiture-qui-tire-a-droite-geometrie-parallelisme | La voiture tire d'un côté : parallélisme, pneus ou freins ? | géométrie, pression, usure, nids-de-poule
 pression-des-pneus-chaleur-reunion-combien | Pression des pneus à La Réunion : à combien gonfler et quand vérifier | chaleur, charge, étiquette portière, roue de secours
