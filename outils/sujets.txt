@@ -35,7 +35,7 @@ embrayage-use-signes-patine-pedale-dure | FAIT le 02/11/2026
 courroie-de-distribution-quand-la-changer | FAIT le 03/11/2026
 amortisseurs-uses-signes-routes-de-montagne | FAIT le 04/11/2026
 temoin-batterie-alternateur-voyant-rouge | FAIT le 05/11/2026
-voiture-qui-tire-a-droite-geometrie-parallelisme | La voiture tire d'un côté : parallélisme, pneus ou freins ? | géométrie, pression, usure, nids-de-poule
+voiture-qui-tire-a-droite-geometrie-parallelisme | FAIT le 06/11/2026
 pression-des-pneus-chaleur-reunion-combien | Pression des pneus à La Réunion : à combien gonfler et quand vérifier | chaleur, charge, étiquette portière, roue de secours
 controle-technique-defaillances-les-plus-frequentes | Contrôle technique : les défaillances les plus fréquentes et comment les éviter | feux, pneus, freins, pollution, pare-brise (généralités, sans chiffres officiels)
 odeur-essence-ou-brule-dans-la-voiture | Odeur d'essence, de brûlé ou d'œuf pourri dans la voiture : que vérifier | fuite, embrayage, catalyseur, sécurité, arrêt
