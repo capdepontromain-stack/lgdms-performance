@@ -40,7 +40,7 @@ pression-des-pneus-chaleur-reunion-combien | FAIT le 07/11/2026
 controle-technique-defaillances-les-plus-frequentes | Contrôle technique : les défaillances les plus fréquentes et comment les éviter | feux, pneus, freins, pollution, pare-brise (généralités, sans chiffres officiels) (REPORTÉ le 08/11/2026 : trop proche de l'article contrôle technique du 22/10 ; ne le traiter que sous un angle différent)
 odeur-essence-ou-brule-dans-la-voiture | FAIT le 08/11/2026
 fumee-echappement-blanche-bleue-noire | FAIT le 09/11/2026
-voiture-qui-broute-a-chaud-ou-au-ralenti | Voiture qui broute au ralenti ou à l'accélération : les causes courantes | bougies, bobine, injecteurs, débitmètre, diagnostic
+voiture-qui-broute-a-chaud-ou-au-ralenti | FAIT le 10/11/2026
 boite-de-vitesses-dure-ou-qui-craque | Boîte qui craque ou vitesses dures : embrayage, huile ou synchro ? | huile de boîte, câble, embrayage
 preparer-sa-voiture-avant-la-saison-des-pluies | FAIT le 30/10/2026
 voiture-apres-cyclone-que-verifier | Après un cyclone ou une forte pluie : ce qu'il faut vérifier sur sa voiture | eau, freins, électrique, moisissure, ne pas démarrer une voiture inondée
