@@ -41,7 +41,7 @@ controle-technique-defaillances-les-plus-frequentes | Contrôle technique : les 
 odeur-essence-ou-brule-dans-la-voiture | FAIT le 08/11/2026
 fumee-echappement-blanche-bleue-noire | FAIT le 09/11/2026
 voiture-qui-broute-a-chaud-ou-au-ralenti | FAIT le 10/11/2026
-boite-de-vitesses-dure-ou-qui-craque | Boîte qui craque ou vitesses dures : embrayage, huile ou synchro ? | huile de boîte, câble, embrayage
+boite-de-vitesses-dure-ou-qui-craque | FAIT le 11/11/2026
 preparer-sa-voiture-avant-la-saison-des-pluies | FAIT le 30/10/2026
 voiture-apres-cyclone-que-verifier | Après un cyclone ou une forte pluie : ce qu'il faut vérifier sur sa voiture | eau, freins, électrique, moisissure, ne pas démarrer une voiture inondée
 voiture-qui-dort-dehors-sel-et-soleil-protection | Voiture garée dehors près du lagon : sel, soleil et corrosion, comment la protéger | Saint-Gilles, La Saline les Bains, lavage, dessous de caisse, joints
