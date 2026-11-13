@@ -44,7 +44,7 @@ voiture-qui-broute-a-chaud-ou-au-ralenti | FAIT le 10/11/2026
 boite-de-vitesses-dure-ou-qui-craque | FAIT le 11/11/2026
 preparer-sa-voiture-avant-la-saison-des-pluies | FAIT le 30/10/2026
 voiture-apres-cyclone-que-verifier | FAIT le 12/11/2026
-voiture-qui-dort-dehors-sel-et-soleil-protection | Voiture garée dehors près du lagon : sel, soleil et corrosion, comment la protéger | Saint-Gilles, La Saline les Bains, lavage, dessous de caisse, joints
+voiture-qui-dort-dehors-sel-et-soleil-protection | FAIT le 13/11/2026
 voiture-de-location-ou-occasion-controle-avant-achat | Acheter une occasion à La Réunion : le contrôle avant achat par un mécanicien | essai, diagnostic, historique, points à vérifier
 
 ## Priorité 3 : préparation, jantes, fond
