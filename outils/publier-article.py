@@ -26,7 +26,7 @@ pas de conseil dangereux évident (le script ne vérifie que la forme : le fond 
 
 Quand le domaine définitif sera acheté : changer SITE ci-dessous puis lancer --regenerer --publier.
 """
-import json, re, sys, subprocess, html, datetime, pathlib, urllib.request
+import json, os, re, sys, subprocess, html, datetime, pathlib, urllib.request
 
 RACINE = pathlib.Path(__file__).resolve().parent.parent
 SITE = "https://capdepontromain-stack.github.io/lgdms-performance"   # sans barre finale
@@ -312,7 +312,9 @@ def generer_tout(reg):
 
 def publier(urls):
     sh = lambda c: subprocess.run(c, shell=True, cwd=RACINE, check=True)
-    sh('git add -A && git -c user.name="Romain Capdepont" -c user.email="capdepontromain@gmail.com" commit -q -m "Blog : ' + ", ".join(u.rsplit("/",2)[-2] for u in urls) + '\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>" || true')
+    # Identité git : variables LGDMS_GIT_NOM / LGDMS_GIT_MAIL si définies, sinon identité générique (aucune adresse personnelle dans le script).
+    nom_git = os.environ.get("LGDMS_GIT_NOM", "LGDMS Performance blog"); mail_git = os.environ.get("LGDMS_GIT_MAIL", "blog@lgdms-performance.invalid")
+    sh(f'git add -A && git -c user.name="{nom_git}" -c user.email="{mail_git}" commit -q -m "Blog : ' + ", ".join(u.rsplit("/",2)[-2] for u in urls) + '\n\nCo-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>" || true')
     sh("git push -q origin main")
     import time
     ok = True
