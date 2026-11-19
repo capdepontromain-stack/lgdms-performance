@@ -45,7 +45,7 @@ boite-de-vitesses-dure-ou-qui-craque | FAIT le 11/11/2026
 preparer-sa-voiture-avant-la-saison-des-pluies | FAIT le 30/10/2026
 voiture-apres-cyclone-que-verifier | FAIT le 12/11/2026
 voiture-qui-dort-dehors-sel-et-soleil-protection | FAIT le 13/11/2026
-voiture-de-location-ou-occasion-controle-avant-achat | Acheter une occasion à La Réunion : le contrôle avant achat par un mécanicien | essai, diagnostic, historique, points à vérifier
+voiture-de-location-ou-occasion-controle-avant-achat | FAIT le 19/11/2026
 
 ## Priorité 3 : préparation, jantes, fond
 preparation-performance-par-ou-commencer | Préparation performance : par quoi commencer sans abîmer sa voiture | admission, échappement, freins, pneus, suspension, ordre logique, homologation « à vérifier »
