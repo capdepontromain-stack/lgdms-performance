@@ -27,7 +27,7 @@ entretien-voiture-salaries-zone-cambaie-saint-paul | FAIT le 25/10/2026
 pneus-crevaison-reparation-ou-remplacement-ouest | FAIT le 26/10/2026
 
 ## Priorité 2 : pannes et questions pratiques
-bruit-de-freinage-grincement-sifflement-que-faire | Bruit au freinage : grincement, sifflement, vibration, ce que ça veut dire | plaquettes, disques voilés, témoin d'usure, quand s'arrêter de rouler (REPORTÉ le 27/10/2026 : trop proche de l'article plaquettes du 16/10 ; ne le traiter que sous un angle différent, ex. bruits hors usure : poussière, humidité du matin, disques neufs)
+bruit-de-freinage-grincement-sifflement-que-faire | FAIT le 20/11/2026
 voiture-qui-chauffe-moteur-surchauffe-reunion | FAIT le 27/10/2026
 climatisation-voiture-ne-refroidit-plus-reunion | FAIT le 28/10/2026
 quand-faire-la-vidange-kilometrage-ou-temps | FAIT le 29/10/2026
