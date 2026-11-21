@@ -48,7 +48,7 @@ voiture-qui-dort-dehors-sel-et-soleil-protection | FAIT le 13/11/2026
 voiture-de-location-ou-occasion-controle-avant-achat | FAIT le 19/11/2026
 
 ## Priorité 3 : préparation, jantes, fond
-preparation-performance-par-ou-commencer | Préparation performance : par quoi commencer sans abîmer sa voiture | admission, échappement, freins, pneus, suspension, ordre logique, homologation « à vérifier »
+preparation-performance-par-ou-commencer | FAIT le 21/11/2026
 jantes-alu-choisir-taille-deport-entraxe | Choisir des jantes alu : taille, déport, entraxe, les notions à connaître | ET, PCD, pneus adaptés, confort, règlementation « en général »
 freinage-sport-plaquettes-disques-quand-ameliorer | Freinage renforcé : quand et comment améliorer plaquettes et disques | montagne, conduite sportive, température, liquide
 suspension-sport-ressorts-courts-ou-combines | Ressorts courts ou combinés filetés : quelle suspension pour une sportive à La Réunion ? | confort, routes dégradées, dos d'âne, garde au sol
