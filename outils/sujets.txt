@@ -51,9 +51,21 @@ voiture-de-location-ou-occasion-controle-avant-achat | FAIT le 19/11/2026
 preparation-performance-par-ou-commencer | FAIT le 21/11/2026
 jantes-alu-choisir-taille-deport-entraxe | FAIT le 23/11/2026
 freinage-sport-plaquettes-disques-quand-ameliorer | FAIT le 24/11/2026
-suspension-sport-ressorts-courts-ou-combines | Ressorts courts ou combinés filetés : quelle suspension pour une sportive à La Réunion ? | confort, routes dégradées, dos d'âne, garde au sol
+suspension-sport-ressorts-courts-ou-combines | FAIT le 25/11/2026
 reprogrammation-moteur-questions-a-se-poser | Reprogrammation moteur : les questions à se poser avant | fiabilité, garantie, entretien, usage réel, prudence
 entretien-voiture-sportive-plus-souvent | Pourquoi une voiture préparée s'entretient plus souvent | huile, freins, pneus, contrôles réguliers
 filtre-a-air-sport-utile-ou-pas | Filtre à air sport : gadget ou vrai plus ? | bruit, débit, entretien, réalités
 voiture-ancienne-youngtimer-entretien-reunion | Entretenir une voiture ancienne ou une youngtimer à La Réunion | pièces, humidité, caoutchoucs, patience
 histoire-lgdms-performance-anthony-passion-auto | Plus qu'un garage, une passion : l'histoire d'Anthony et de LGDMS Performance | récit, valeurs, pourquoi le domicile, La Saline les Hauts (à écrire quand Romain aura les infos d'Anthony)
+
+## Idées ajoutées le 25/11/2026 (saison chaude et cyclonique, fêtes de fin d'année)
+verifier-sa-voiture-avant-les-vacances-de-fin-d-annee-saint-gilles | Avant les vacances de fin d'année : le check-up de la voiture à Saint-Gilles | priorité 1 ; pneus, freins, clim, niveaux avant les sorties et la route des Tamarins chargée
+mecanicien-a-domicile-la-saline-les-bains-hermitage-vacances | Mécanicien à domicile à La Saline les Bains et L'Hermitage pendant les vacances | priorité 1 ; location saisonnière, voiture de la famille, intervention sur place
+entretien-voiture-trois-bassins-routes-pentues | Rouler à Trois-Bassins : l'entretien des voitures qui montent et descendent tous les jours | priorité 1 ; freins, embrayage, refroidissement, pneus
+voiture-qui-cale-a-l-arret-ou-au-feu | Voiture qui cale à l'arrêt ou au feu rouge : les causes | priorité 2 ; ralenti, vanne, capteurs, diagnostic à la valise
+voyant-abs-esp-allume-que-faire | Voyant ABS ou ESP allumé : peut-on rouler et que vérifier ? | priorité 2 ; capteurs de roue, humidité, diagnostic (pas de bricolage freins)
+direction-dure-ou-bruyante-en-manoeuvre | Direction dure ou qui grince en manœuvre : les causes | priorité 2 ; assistance, liquide, rotules, parkings de Saint-Paul
+bruit-en-virage-cardan-roulement | Claquement en virage ou bourdonnement en roulant : cardan ou roulement ? | priorité 2 ; reconnaître le bruit, contrôle sur pont à La Saline les Hauts
+liquide-de-refroidissement-quand-le-changer | Liquide de refroidissement : quand le changer sous la chaleur de l'Ouest | priorité 2 ; niveau, couleur, jamais ouvrir à chaud
+odeur-de-moisi-clim-filtre-habitacle-saison-des-pluies | Odeur de moisi dans la voiture en saison des pluies : filtre d'habitacle et clim | priorité 2 ; angle humidité, différent de l'article clim du 28/10
+entretien-voiture-hybride-ce-que-fait-un-mecanicien | Voiture hybride : quel entretien chez un mécanicien indépendant ? | priorité 3 ; vidange, freins, pneus, diagnostic ; jamais toucher la haute tension
