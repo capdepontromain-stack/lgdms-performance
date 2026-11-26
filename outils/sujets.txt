@@ -59,7 +59,7 @@ voiture-ancienne-youngtimer-entretien-reunion | Entretenir une voiture ancienne 
 histoire-lgdms-performance-anthony-passion-auto | Plus qu'un garage, une passion : l'histoire d'Anthony et de LGDMS Performance | récit, valeurs, pourquoi le domicile, La Saline les Hauts (à écrire quand Romain aura les infos d'Anthony)
 
 ## Idées ajoutées le 25/11/2026 (saison chaude et cyclonique, fêtes de fin d'année)
-verifier-sa-voiture-avant-les-vacances-de-fin-d-annee-saint-gilles | Avant les vacances de fin d'année : le check-up de la voiture à Saint-Gilles | priorité 1 ; pneus, freins, clim, niveaux avant les sorties et la route des Tamarins chargée
+verifier-sa-voiture-avant-les-vacances-de-fin-d-annee-saint-gilles | FAIT le 26/11/2026
 mecanicien-a-domicile-la-saline-les-bains-hermitage-vacances | Mécanicien à domicile à La Saline les Bains et L'Hermitage pendant les vacances | priorité 1 ; location saisonnière, voiture de la famille, intervention sur place
 entretien-voiture-trois-bassins-routes-pentues | Rouler à Trois-Bassins : l'entretien des voitures qui montent et descendent tous les jours | priorité 1 ; freins, embrayage, refroidissement, pneus
 voiture-qui-cale-a-l-arret-ou-au-feu | Voiture qui cale à l'arrêt ou au feu rouge : les causes | priorité 2 ; ralenti, vanne, capteurs, diagnostic à la valise
